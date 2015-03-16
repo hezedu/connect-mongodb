@@ -1,5 +1,5 @@
 {
-  "name": "connect-mongodb-autoDestroy",
+  "name": "connect-mongodb-autodestroy",
   "description": "mongodb session store for connect",
   "version": "1.1.6",
   "author": "Vladimir Dronnikov <dronnikov@gmail.com>",
